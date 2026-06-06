@@ -164,7 +164,7 @@ Revenue fluctuates between $28,000 and $67,000 per month with no consistent upwa
 2. Click **File → Upload Notebook**
 3. Upload `Project3_SQL_Analysis.ipynb`
 4. Click the **folder icon** on the left panel
-5. Upload `dataset.csv` to the Colab session
+5. Upload `Dataset_Cleaned` to the Colab session
 6. Run each cell one by one using **Shift + Enter**
 7. Results appear below each cell
 
