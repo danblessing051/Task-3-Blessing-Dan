@@ -175,7 +175,7 @@ Revenue fluctuates between $28,000 and $67,000 per month with no consistent upwa
 | File | Description |
 |------|-------------|
 | `Project3_SQL_Analysis.ipynb` | Full SQL analysis notebook |
-| `Cleaned_|Dataset' | E-commerce orders dataset |
+| `Dataset_Cleaned' | E-commerce orders dataset |
 | `README.md` | Project documentation |
 
 ---
@@ -184,7 +184,7 @@ Revenue fluctuates between $28,000 and $67,000 per month with no consistent upwa
 
 **Intern:** Blessing Ekom Dan
 **Email:** danblessing051@gmail.com
-**LinkedIn:** linkedin.com/blessing-dan_888b27374
+**LinkedIn:** linkedIn.com/blessing-dan_888b27374
 **Institution:** University of Uyo, Akwa Ibom State, Nigeria
 **Course:** B.Sc Accounting
 **Organization:** DecodeLabs Industrial Training
@@ -194,8 +194,8 @@ Revenue fluctuates between $28,000 and $67,000 per month with no consistent upwa
 
 ## 📞 Contact
 - 📧 danblessing051@gmail.com
-- 💼 linkedin.com/blessing-dan_888b27374
-- ⚡ GitHub: 
+- 💼 linkedIn.com/blessing-dan_888b27374
+- ⚡ GitHub: https://github.com/danblessing051/Task-3-Blessing-Dan.git
 
 ---
 
